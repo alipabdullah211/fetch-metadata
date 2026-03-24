@@ -8,7 +8,7 @@
 
 # Fetch Metadata Action
 
-**Name:** `dependabot/fetch-metadata`
+**Name:** `Mohamad Alip Bin Abdullah` `dependabot/fetch-metadata`
 
 Extract information about the dependencies being updated by a Dependabot-generated PR.
 
